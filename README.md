@@ -79,10 +79,10 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 ---
 
-## 📬 Contact
+## 👤 Author
 
-Created by Rudraksha Deshmukh — feel free to reach out!
-- LinkedIn: [Rudraksha Deshmukh](www.linkedin.com/in/rdworks)
+<b>Rudraksha Deshmukh<b> 
+- LinkedIn: www.linkedin.com/in/rdworks
 
 ---
 
